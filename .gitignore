@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Original masters and working files - kept locally, never published
+source/
+NOTES.md
+
+# Local previews and scratch
+docs/preview-*.html
+*.log
+.cache/
