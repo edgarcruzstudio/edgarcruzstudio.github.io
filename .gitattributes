@@ -1,0 +1,6 @@
+# Store text files with LF line endings, whatever the editor writes on Windows
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+*.webp binary
+*.mp4 binary
