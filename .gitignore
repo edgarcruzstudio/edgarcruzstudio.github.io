@@ -12,3 +12,6 @@ NOTES.md
 docs/preview-*.html
 *.log
 .cache/
+
+# Local tool settings
+.claude/
